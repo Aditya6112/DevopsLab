@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	pritf("Hello Aditya");
+	pritf("Hello From trial.c");
 	return 0;
 }
